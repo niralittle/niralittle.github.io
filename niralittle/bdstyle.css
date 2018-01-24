@@ -1,0 +1,19 @@
+body {
+	min-width: 1000px;
+	background:  url(/pics/2.png) repeat 0 #fff; 	
+	}      
+
+
+.page {
+	margin: 0 auto;
+	float: center;
+	width: 835px;
+	background: #fff;
+}
+p {
+		font: normal 14px 'Trebuchet MS', Arial, sans-serif;
+		color: #990033;
+}
+
+table.page {
+}
